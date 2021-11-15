@@ -1,7 +1,12 @@
 # Data-X-Project InSight
 
 # Problem Statement
-*All institutions, workplaces and businesses can use our project to get data on how many visitors enter, leave the store and at what time!
+*
+
+Institutions, workplaces and businesses require reliable systems to get  data on how many visitors enter, leave the store and at what time.
+Social distancing is the need of the hour in the Covid-19 pandemic. Our project also helps prevent overcrowding.
+
+
 
 # Objective
 *We can do this by keeping track of the number of people in a given space at any given point of time.
