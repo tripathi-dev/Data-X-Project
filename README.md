@@ -8,7 +8,8 @@ Social distancing is the need of the hour in the Covid-19 pandemic. Our project 
 
 
 # Objective
-*We can do this by keeping track of the number of people in a given space at any given point of time.
+inSight aims to track the number of people present at a place and can be used in stores, restaurants, malls, etc. to get data on how many visitors enter a store and at what time. To know how many visitors actually become customers.
+
 *We have used python & openCV code which uses an optical flow tracker to track the person when one enters/leaves the room.
 
 # Dataset Used
