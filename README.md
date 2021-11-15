@@ -1,7 +1,8 @@
 # Data-X-Project InSight
 
 # Problem Statement
-*Institutions, workplaces and businesses require reliable systems to get  data on how many visitors enter, leave the store and at what time.
+Institutions, workplaces and businesses require reliable systems to get  data on how many visitors enter, leave the store and at what time.
+
 Social distancing is the need of the hour in the Covid-19 pandemic. Our project also helps prevent overcrowding.
 
 
